@@ -1,1 +1,1 @@
-# fMRI
+# fMRI scripts for preprocessing and analysis
