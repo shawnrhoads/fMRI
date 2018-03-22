@@ -1,4 +1,4 @@
-# misc_brain contains scripts for fMRI/DTI preprocessing and analysis
+# Miscellaneous scripts for fMRI & DTI preprocessing and analyses
 
 <b>./fMRI_artifactDetection</b> contains two scripts for recursively generating configuration settings per subject in study and running ART toolbox
 
