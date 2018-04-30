@@ -2,7 +2,7 @@
 
 <b>./fMRI_artifactDetection</b> contains two scripts for recursively generating configuration settings per subject in study and running ART toolbox
 
-<b>./probTractography</b> contains script to recursively pre-process diffusion tensor imaging data and run probabilistic tractography analysis. (masterFDT_parallel.sh runs subjects in parallel).
+<b>./probTractography</b> contains a wrapper script to recursively pre-process diffusion tensor imaging data and run probabilistic tractography analysis. (masterFDT_parallel.sh runs subjects in parallel).
 Script can use two methods:
     1) To generate a NxN connectivity matrix;
     2) To run a seed2target analysis
